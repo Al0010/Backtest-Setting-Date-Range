@@ -1,5 +1,5 @@
 # BacktestSettingDateRange
-Script for backtesting Strategy in Pine. Adjust the time Range period under analysis. 
+Script for backtesting Strategy in Pine. Adjust the time range period under analysis. 
 
 By adding this script you will be able to analyse a specific range period. You can isolate a short period to monitor how the strategy performed in a specific market phase (ex bearish market period) or you can analyse the entire history. Surely this script will be able to optimise your research. 
 
